@@ -1,0 +1,6 @@
+[submodule "libs/pip"]
+	path = libs/pip
+	url = https://github.com/pypa/pip.git
+[submodule "libs/setuptools"]
+	path = libs/setuptools
+	url = https://github.com/jaraco/setuptools.git
